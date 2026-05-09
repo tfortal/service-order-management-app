@@ -1,0 +1,26 @@
+order_id,customer_name,service_type,priority,status,assigned_to,created_date,due_date,completed_date,estimated_cost,notes
+OS-1001,Alpha Manufacturing,Preventive Maintenance,High,Completed,John Carter,2026-01-03,2026-01-08,2026-01-07,850.00,Monthly inspection completed
+OS-1002,Beta Logistics,Equipment Repair,Medium,In Progress,Maria Silva,2026-01-05,2026-01-12,,1200.00,Conveyor belt issue
+OS-1003,Gamma Foods,Inspection,Low,Completed,David Miller,2026-01-07,2026-01-10,2026-01-09,350.00,Visual inspection completed
+OS-1004,Delta Mining,Corrective Maintenance,Critical,Open,Ana Costa,2026-01-10,2026-01-15,,2500.00,Pump vibration reported
+OS-1005,Epsilon Energy,Calibration,Medium,Completed,John Carter,2026-01-12,2026-01-18,2026-01-17,900.00,Sensor calibration
+OS-1006,Zeta Services,Equipment Repair,High,Open,Maria Silva,2026-01-15,2026-01-22,,1800.00,Motor overheating
+OS-1007,Alpha Manufacturing,Inspection,Low,Completed,David Miller,2026-01-18,2026-01-20,2026-01-20,400.00,Routine inspection
+OS-1008,Beta Logistics,Preventive Maintenance,Medium,In Progress,Ana Costa,2026-01-20,2026-01-27,,1100.00,Preventive checklist
+OS-1009,Gamma Foods,Corrective Maintenance,High,Completed,John Carter,2026-01-22,2026-01-28,2026-01-27,2100.00,Valve replacement
+OS-1010,Delta Mining,Inspection,Critical,Open,Maria Silva,2026-01-25,2026-01-30,,650.00,Emergency inspection requested
+OS-1011,Epsilon Energy,Preventive Maintenance,Medium,Completed,David Miller,2026-02-02,2026-02-08,2026-02-07,950.00,Preventive maintenance completed
+OS-1012,Zeta Services,Equipment Repair,High,In Progress,Ana Costa,2026-02-04,2026-02-12,,1750.00,Electrical panel issue
+OS-1013,Alpha Manufacturing,Calibration,Low,Completed,John Carter,2026-02-06,2026-02-10,2026-02-09,500.00,Calibration performed
+OS-1014,Beta Logistics,Corrective Maintenance,Medium,Open,Maria Silva,2026-02-09,2026-02-16,,1400.00,Hydraulic leak
+OS-1015,Gamma Foods,Inspection,Low,Completed,David Miller,2026-02-12,2026-02-15,2026-02-15,320.00,Inspection completed
+OS-1016,Delta Mining,Equipment Repair,Critical,In Progress,Ana Costa,2026-02-15,2026-02-22,,3200.00,Crusher bearing issue
+OS-1017,Epsilon Energy,Preventive Maintenance,High,Completed,John Carter,2026-02-18,2026-02-24,2026-02-23,1300.00,Preventive service completed
+OS-1018,Zeta Services,Corrective Maintenance,Medium,Open,Maria Silva,2026-02-20,2026-02-27,,1550.00,Compressor pressure drop
+OS-1019,Alpha Manufacturing,Inspection,Low,Completed,David Miller,2026-02-24,2026-02-26,2026-02-26,380.00,General inspection
+OS-1020,Beta Logistics,Calibration,Medium,Completed,Ana Costa,2026-02-27,2026-03-03,2026-03-02,720.00,Calibration and adjustment
+OS-1021,Gamma Foods,Equipment Repair,High,Open,John Carter,2026-03-02,2026-03-09,,1900.00,Packaging machine failure
+OS-1022,Delta Mining,Preventive Maintenance,Critical,In Progress,Maria Silva,2026-03-05,2026-03-12,,2800.00,Critical asset preventive service
+OS-1023,Epsilon Energy,Inspection,Medium,Completed,David Miller,2026-03-08,2026-03-11,2026-03-10,450.00,Inspection completed
+OS-1024,Zeta Services,Corrective Maintenance,High,Open,Ana Costa,2026-03-11,2026-03-18,,1700.00,Cooling system issue
+OS-1025,Alpha Manufacturing,Calibration,Low,Completed,John Carter,2026-03-14,2026-03-18,2026-03-18,600.00,Calibration completed
